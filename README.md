@@ -31,7 +31,7 @@
 
 <div>
   <img src="client/screenshots/homepage.webp" alt="App Screenshot 1">
-  <img src="project-image.webp" alt="App Screenshot 2">
+  <img src="client/screenshots/admin_dashboard.webp" alt="App Screenshot 2">
   <img src="client/screenshots/doctor_search.webp" alt="App Screenshot 3">
   <img src="client/screenshots/make_appointment.webp" alt="App Screenshot 4">
   <img src="client/screenshots/doc_profile.webp" alt="App Screenshot doc">
